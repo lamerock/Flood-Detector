@@ -60,7 +60,7 @@ void setup() {
   Serial.begin(38400);
   
   //initGSM(); // for debugging purpose only DO NOT REMOVE
-  //send_msg("09154370656", "GSM module started successfully."); // for debugging purpose only DO NOT REMOVE
+  //send_msg("09150000000", "GSM module started successfully."); // for debugging purpose only DO NOT REMOVE
   initGSM();
   sendMulti("GSM module started successfully.");
   //Serial.println(msgLVL1);
