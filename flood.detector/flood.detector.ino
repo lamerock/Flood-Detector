@@ -41,7 +41,7 @@ char msgLVL1[] = "Water Level Status: Level 1";
 char msgLVL2[] = "Water Level Status: Level 2";
 char msgLVL3[] = "Water Level Status: Level 3";
 
-char* regNumbers[]={"09154370656", "09366403297"};
+char* regNumbers[]={"09150000000", "09360000000"};
 int numNumbers = 2;
 
 
